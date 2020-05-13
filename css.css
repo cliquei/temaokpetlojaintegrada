@@ -1,9 +1,15 @@
 .conteiner { min-width: 90%; max-width: 95%; }
 
-.row-fluid .span9 { width: 66.468085%; *width: 74.41489361702126%; }
+.row-fluid .span9 { width: 73.468085%; *width: 74.41489361702126%; }
 
 
 .barra-inicial { line-height: 30px; display: none; }
+
+.logo a {
+    position: relative;
+    display: block;
+    height: 110px;
+}
 
 
 .menu .nivel-dois, .menu .nivel-tres, .menu.lateral .nivel-um>li>a {
@@ -23,7 +29,7 @@
 }
 
 
-.menu ul { margin: 0; background-color: #FF9800; border-radius: 12px; }
+.menu ul { margin: 0; background-color: #FF9800; border-radius: 12px; padding:12px; }
 
 
 
@@ -34,10 +40,20 @@
 }
 
 
+.menu.lateral .nivel-um>li>a {
+    padding: 0 20px;
+    background-color: aliceblue;
+}
+
+
 
 .menu.superior .titulo { margin: 10px 10px 10px; }
 
-
+.menu a {
+    display: block;
+    white-space: nowrap;
+    margin: 3px;
+}
 
 .menu .titulo {
     display: inline-block;
