@@ -1,0 +1,78 @@
+.conteiner { min-width: 90%; max-width: 95%; }
+
+.row-fluid .span9 { width: 66.468085%; *width: 74.41489361702126%; }
+
+
+.barra-inicial { line-height: 30px; display: none; }
+
+
+.menu .nivel-dois, .menu .nivel-tres, .menu.lateral .nivel-um>li>a {
+    background-color: #f7f7f7;
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+
+
+.menu .nivel-um>li>a {
+    background-color: #f7f7f7;
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+    font-weight: bold;
+    
+}
+
+
+.menu ul {
+    margin: 0;
+    background-color: #fff;
+    border-radius: 12px;
+    
+}
+
+
+
+
+
+.menu.lateral >li>a {
+    padding: 0 20px;
+    background-color: aliceblue;
+}
+
+
+
+.menu.superior .titulo { margin: 10px 10px 10px; }
+
+
+
+.menu .titulo {
+    display: inline-block;
+    white-space: normal;
+    font-size: 13px;
+    font-weight: 500;
+    font-variant-caps: small-caps;
+}
+
+
+
+.busca {
+    position: relative;
+    padding: 5px;
+    border: 0px solid #ddd0;
+     
+}
+
+
+.row-fluid {
+    width: 100%;
+    *zoom: 1;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a { color: #08c; text-decoration: none; border-radius: 10px; margin-bottom: 6px; margin-top: 6px; margin-left:9px; margin-right:9px; }
+
+.listagem .titulo-categoria { display: block; font-size: 16px; margin: 40px 0 0; padding: 10px 0; transition: all .2s ease; padding-left: 16px; }
+
