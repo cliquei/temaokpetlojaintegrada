@@ -23,13 +23,7 @@
 }
 
 
-.menu ul {
-    margin: 0;
-    background-color: #fff;
-    border-radius: 12px;
-    
-}
-
+.menu ul { margin: 0; background-color: #FF9800; border-radius: 12px; }
 
 
 
@@ -76,3 +70,22 @@ a { color: #08c; text-decoration: none; border-radius: 10px; margin-bottom: 6px;
 
 .listagem .titulo-categoria { display: block; font-size: 16px; margin: 40px 0 0; padding: 10px 0; transition: all .2s ease; padding-left: 16px; }
 
+
+
+.busca {
+    position: relative;
+    padding: 5px;
+    background-color: #FFC107;
+    border: 0px solid #ddd;
+    border-radius: 4px;
+}
+
+
+
+body {
+    font-family: 'Roboto' ,sans-serif;
+    background-color: #FFC107;
+    background-position: top center;
+    background-attachment: scroll;
+    background-repeat: repeat;
+}
