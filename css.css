@@ -1,4 +1,45 @@
- .conteiner  { min-width: 83%; max-width: 89%;
+a.bem-vindo.cor-secundaria {
+    
+background-color:white;
+padding:8px;
+margin-top: 44px;
+}
+
+
+
+
+ul.nivel-um {
+ 
+    
+    
+    margin: 0;
+    background-color: #f8940685;
+    border-radius: 12px;
+    padding: 12px;
+}
+    
+    
+
+#listagemProdutos > div.titulo-categoria.borda-principal.cor-principal.vitrine-lancamento
+{   
+    font-size: 18px;
+        text-align: center;
+}
+
+
+#rodape .institucional {
+    background-color: #502313;
+    background-position: top center;
+    background-repeat: repeat;
+}
+
+
+#cabecalho > div.conteiner {
+    background-color:#ffc107;
+    
+    
+}
+.conteiner  { min-width: 83%; max-width: 89%;
 
  }
      
