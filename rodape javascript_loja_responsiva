@@ -1,0 +1,80 @@
+////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+
+/** CONFIGURAÇÕES GERAIS
+**************************************************************** **/
+
+var seloSsl = "https://cdn.awsli.com.br/production/static/img/struct/stamp_encryptssl.png"; // Imagem selo ssl
+
+var listaDesejosListagem = true; // Habilitar lista de desejos na listagem de produtos? (true é igual a sim,false é igual a não)
+
+var botaoVoltarAoTopo = true; // Habilitar botão voltar ao topo? (true é igual a sim,false é igual a não)
+
+////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+
+
+/** BOTÃO FLUTUANTE WHATSAPP
+**************************************************************** **/
+
+var habBotaoWhats = true; // Habilitar botão flutuante do WhatsApp? (true é igual a sim,false é igual a não)
+
+var numWhats = "21981895101"; // Número do WhatsApp (Insira o seu número do WhatsApp com o DDD sem espaços,traços ou pontos)
+
+////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+
+
+/** RASTREIO RÁPIDO DOS CORREIOS
+**************************************************************** **/
+
+var hbRastreioRpd = true; // Habilitar rastreio rápido dos correios? (true é igual a sim,false é igual a não)
+
+var opUm = true; // Opção 1 (true é igual a ativo,false é igual a inativo)
+
+var opDois = false; // Opção 2 (true é igual a ativo,false é igual a inativo)
+
+////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+
+
+/** VÍDEO EM DESTAQUE NA HOME
+**************************************************************** **/
+
+var habVideoHome = true; // Habilitar seção video em destaque na home? (true é igual a sim,false é igual a não)
+
+var videoUrl = "https://www.youtube.com/watch?v=xIH4PQ6Hlw0"; // URL do vídeo
+
+var tituloVideo = "Vídeo"; // Título da seção vídeo
+
+////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+
+
+/** TABELA DE MEDIDAS
+**************************************************************** **/
+
+var ativarTabelaMedidas = true; // Habilitar tabela de medidas? (true é igual a sim,false é igual a não)
+
+// TABELA 1 - NOME DA TABELA
+
+var imgTabMed1 = "https://cdn.awsli.com.br/1378/1378067/arquivos/tabela-medidas-padrao.png";
+
+// TABELA 2 - NOME DA TABELA
+
+var imgTabMed2 = "";
+
+// TABELA 3 - NOME DA TABELA
+
+var imgTabMed3 = "";
+
+// TABELA 4 - NOME DA TABELA
+
+var imgTabMed4 = "";
+
+// TABELA 5 - NOME DA TABELA
+
+var imgTabMed5 = "";
+
+////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
